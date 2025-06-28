@@ -1,0 +1,20 @@
+#purchase-btn {
+  display:inline-block;
+}
+
+#enter {
+  display:inline-block;
+}
+
+#drawer-total {
+  font-weight: bold;
+}
+.register-amount, .change-due {
+  display:inline-block;
+  font-weight:normal;
+}
+
+pennies {
+  display:inline-block;
+  
+}
